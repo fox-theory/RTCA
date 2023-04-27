@@ -1,0 +1,4 @@
+openai==0.27.2
+langchain==0.0.131
+st-annotated-text
+masked-ai
